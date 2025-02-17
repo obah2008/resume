@@ -4,7 +4,7 @@
 ---
 
 ## 📝 Summary  
-Aspiring **Cloud Security Engineer** with hands-on experience in **networking, cybersecurity, and cloud computing**. Currently studying for **CCNA and AWS Cloud Practitioner** certifications. Skilled in **SIEM, threat detection, and cloud security**. Passionate about securing cloud environments and detecting threats in enterprise systems.
+Hello there, I'm Obah Emmanuel, an aspiring **Cloud Security Engineer** with hands-on experience in **networking, cybersecurity, and cloud computing**. Currently a student at the **University of Ibadan**, I'm als currently studying for the **CCNA and AWS Cloud Practitioner** certifications. Skilled in **SIEM, Subnetting, threat detection, and cloud security**. Passionate about securing cloud environments and detecting threats in enterprise systems.
 
 ---
 
@@ -13,21 +13,20 @@ Aspiring **Cloud Security Engineer** with hands-on experience in **networking, c
 - **Cybersecurity:** SIEM (Wazuh), Threat Hunting, Incident Response  
 - **Networking:** VLANs, Subnetting, Firewalls, VPNs  
 - **Operating Systems:** Linux (Ubuntu, Kali), Windows 11  
-- **Scripting & Automation:** Python (Basics), Bash (Learning), Git  
-- **Security Tools:** Nmap, Wireshark, Metasploit, Burp Suite  
+- **Scripting & Automation:** Python (Basics), Bash (Learning), Git   
 
 ---
 
 ## 🎓 Certifications (Completed & In-Progress)  
-- **AWS Certified Cloud Practitioner** *(In Progress, Expected [Month, Year])*  
-- **Cisco CCNA** *(In Progress, Expected [Month, Year])*  
+- **AWS Certified Cloud Practitioner** *(In Progress,)*  
+- **Cisco CCNA** *(In Progress)*  
 - **CompTIA Security+** *(Studied, Not Certified Yet)*  
 
 ---
 
 ## 💻 Projects & Hands-on Experience  
 
-### 🔹 [Security Home Lab](https://github.com/yourusername/security-homelab) *(Active Project)*  
+### 🔹 [Security Home Lab]() *(Active Project)*  
 - Built a **virtual security environment** using **Ubuntu, Windows, and Kali Linux**.  
 - Configured **Wazuh SIEM** for real-time threat detection and response.  
 - Integrated **Metasploitable VM** to simulate attacks and analyze security logs.  
