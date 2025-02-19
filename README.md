@@ -1,19 +1,19 @@
-# [Your Name]
-📍 [Your Location] | 📧 [Your Email] | 📞 [Your Phone] | 🔗 [GitHub Profile](https://github.com/yourusername) | 🔗 [LinkedIn Profile](https://linkedin.com/in/yourusername)
+# [Obah Okechukwu Emmanuel]
+📍 [Lagos, Nigeria] | 📧 [eobah105@gmail.com] | 📞 [09124081474] | 🔗 [GitHub Profile](https://github.com/obah2008) | 🔗 [LinkedIn Profile](https://www.linkedin.com/in/emmanuel-obah-8a0521333/)
 
 ---
 
 ## 📝 Summary  
-Hello there, I'm Obah Emmanuel, an aspiring **Cloud Security Engineer** with hands-on experience in **networking, cybersecurity, and cloud computing**. Currently a student at the **University of Ibadan**, I'm als currently studying for the **CCNA and AWS Cloud Practitioner** certifications. Skilled in **SIEM, Subnetting, threat detection, and cloud security**. Passionate about securing cloud environments and detecting threats in enterprise systems.
+Hello there, I'm Obah Emmanuel, an aspiring **Cloud Security Engineer** with hands-on experience in **networking, cybersecurity, and cloud computing**. Currently a student at the **University of Ibadan**, I'm als currently studying for the **AWS Cloud Practitioner and COMPTIA security +** certifications and passively for the CCNA. Skilled in **SIEM, Subnetting, threat detection, File integrity and monitoring, and cloud security**. Passionate about securing cloud environments and detecting threats in enterprise systems.
 
 ---
 
 ## 🚀 Technical Skills  
-- **Cloud Computing:** AWS (IAM, VPC, EC2, S3), Azure (Basic)  
+- **Cloud Computing:** AWS (IAM, VPC, EC2, S3),   
 - **Cybersecurity:** SIEM (Wazuh), Threat Hunting, Incident Response  
 - **Networking:** VLANs, Subnetting, Firewalls, VPNs  
 - **Operating Systems:** Linux (Ubuntu, Kali), Windows 11  
-- **Scripting & Automation:** Python (Basics), Bash (Learning), Git   
+- **Scripting & Automation:** Python (Basics), Bash (Learning)
 
 ---
 
