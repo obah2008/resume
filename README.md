@@ -32,12 +32,12 @@ Hello there, I'm Obah Emmanuel, an aspiring **Cloud Security Engineer** with han
 - Integrated **Metasploitable VM** to simulate attacks and analyze security logs.  
 - Used **Kali Linux** to perform **penetration testing** and assess vulnerabilities.  
 
-### 🔹 [AWS Cloud Security Project](https://github.com/yourusername/aws-security-project) *(In Progress)*  
+### 🔹 [AWS Cloud Security Project]() *(In Progress)*  
 - Designed a **VPC with public & private subnets**, enforcing **IAM best practices**.  
 - Deployed an **EC2-based web server** with **security group restrictions**.  
 - Implemented **CloudTrail logging** for activity monitoring.  
 
-### 🔹 [Network Security & VPN Setup](https://github.com/yourusername/network-security-vpn)  
+### 🔹 [Network Security & VPN Setup]()  
 - Configured **VLANs & firewall rules** for **network segmentation**.  
 - Set up a **VPN for secure remote access** to lab environments.  
 - Tested network security with **packet capture (Wireshark) & intrusion detection**.  
@@ -54,10 +54,9 @@ Hello there, I'm Obah Emmanuel, an aspiring **Cloud Security Engineer** with han
 ---
 
 ## 🔗 Links  
-📌 **GitHub Portfolio:** [github.com/yourusername](https://github.com/yourusername)  
-📌 **TryHackMe Profile:** [tryhackme.com/p/yourusername](https://tryhackme.com/p/yourusername) *(If applicable)*  
-📌 **Hack The Box Profile:** [hackthebox.com/profile/yourusername](https://hackthebox.com/profile/yourusername) *(If applicable)*  
-📌 **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
+📌 **GitHub Portfolio:** [github.com/yourusername](https://github.com/obah2008)  
+📌 **TryHackMe Profile:** [tryhackme.com/p/yourusername](https://tryhackme.com/p/Obah2008)   
+📌 **LinkedIn:** [linkedin.com/in/yourusername](https://www.linkedin.com/in/emmanuel-obah-8a0521333/)  
 
 ---
 
