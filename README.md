@@ -45,7 +45,7 @@ Hello there, I'm Obah Emmanuel, an aspiring **Cloud Security Engineer** with han
 ---
 
 ## 📚 Education  
-**[Your University/College]** *(University of Ibadan)*  
+**[University]** *(University of Ibadan)*  
 📖 **[Degree or Major]** *(Computer science)*  
 📅 **[2029]*  
 
