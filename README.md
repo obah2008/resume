@@ -45,13 +45,10 @@ Hello there, I'm Obah Emmanuel, an aspiring **Cloud Security Engineer** with han
 ---
 
 ## 📚 Education  
-**[Your University/College]** *(if applicable)*  
-📖 **[Degree or Major]** *(if applicable)*  
-📅 **[Year of Graduation or Expected Year]*  
+**[Your University/College]** *(University of Ibadan)*  
+📖 **[Degree or Major]** *(Computer science)*  
+📅 **[2029]*  
 
-*(If no degree, mention self-learning and relevant coursework: CCNA, AWS, cybersecurity studies, etc.)*  
-
----
 
 ## 🔗 Links  
 📌 **GitHub Portfolio:** [github.com/yourusername](https://github.com/obah2008)  
