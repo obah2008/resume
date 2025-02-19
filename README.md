@@ -1,5 +1,5 @@
 # [Obah Okechukwu Emmanuel]
-📍 [Lagos, Nigeria] | 📧 [eobah105@gmail.com] | 📞 [09124081474] | 🔗 [GitHub Profile](https://github.com/obah2008) | 🔗 [LinkedIn Profile](https://www.linkedin.com/in/emmanuel-obah-8a0521333/)
+📍 [Lagos, Nigeria] | 📧 [eobah105@gmail.com] | 📞 [+2349124081474] | 🔗 [GitHub Profile](https://github.com/obah2008) | 🔗 [LinkedIn Profile](https://www.linkedin.com/in/emmanuel-obah-8a0521333/)
 
 ---
 
