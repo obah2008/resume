@@ -51,9 +51,9 @@ Hello there, I'm Obah Emmanuel, an aspiring **Cloud Security Engineer** with han
 
 
 ## 🔗 Links  
-📌 **GitHub Portfolio:** [github.com/yourusername](https://github.com/obah2008)  
-📌 **TryHackMe Profile:** [tryhackme.com/p/yourusername](https://tryhackme.com/p/Obah2008)   
-📌 **LinkedIn:** [linkedin.com/in/yourusername](https://www.linkedin.com/in/emmanuel-obah-8a0521333/)  
+📌 **GitHub Portfolio:** [github](https://github.com/obah2008)  
+📌 **TryHackMe Profile:** [tryhackme](https://tryhackme.com/p/Obah2008)   
+📌 **LinkedIn:** [linkedin](https://www.linkedin.com/in/emmanuel-obah-8a0521333/)  
 
 ---
 
