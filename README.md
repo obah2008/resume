@@ -4,7 +4,7 @@
 ---
 
 ## 📝 Summary  
-Hello there, I'm Obah Emmanuel, an aspiring **Cloud Security Engineer** with hands-on experience in **networking, cybersecurity, and cloud computing**. Currently a student at the **University of Ibadan**, I'm als currently studying for the **AWS Cloud Practitioner and COMPTIA security +** certifications and passively for the CCNA. Skilled in **SIEM, Subnetting, threat detection, File integrity and monitoring, and cloud security**. Passionate about securing cloud environments and detecting threats in enterprise systems.
+Hello there, I'm Obah Emmanuel, an aspiring **Cloud Security Engineer** with hands-on experience in **networking, cybersecurity, and cloud computing**. Currently a student at the **University of Ibadan**, I'm also currently studying for the **AWS Cloud Practitioner and COMPTIA security +** certifications and passively for the CCNA. Skilled in **SIEM, Subnetting, threat detection, File integrity and monitoring, and cloud security**. Passionate about securing cloud environments and detecting threats in enterprise systems.
 
 ---
 
