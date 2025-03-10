@@ -27,10 +27,10 @@ Hello there, I'm Obah Emmanuel, an aspiring **Cloud Security Engineer** with han
 ## 💻 Projects & Hands-on Experience  
 
 ### 🔹 [Security Home Lab]() *(Active Project)*  
-- Built a **virtual security environment** using **Ubuntu, Windows, and Kali Linux**.  
-- Configured **Wazuh SIEM** for real-time threat detection and response.  
-- Integrated **Metasploitable VM** to simulate attacks and analyze security logs.  
-- Used **Kali Linux** to perform **penetration testing** and assess vulnerabilities.  
+- Built a **virtual security environment** using **Ubuntu and Windows**.  
+- Configured **Wazuh SIEM** for real-time threat detection and response by setting up FIM.  
+- Integrated **Virustotal** to detect for malware in real time.  
+- Configured  **Active response** to remove said malware automaticallly .  
 
 ### 🔹 [AWS Cloud Security Project]() *(In Progress)*  
 - Designed a **VPC with public & private subnets**, enforcing **IAM best practices**.  
