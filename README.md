@@ -20,6 +20,7 @@ Hello there, I'm Obah Emmanuel, an aspiring **Cloud Security Engineer** with han
 ## 🎓 Certifications (Completed & In-Progress)  
 - **AWS Certified Cloud Practitioner** *(In Progress,)*  
 - **Cisco CCNA** *(In Progress)*  
+- **ISC2 CC**(taken)
 - **CompTIA Security+** *(Studied, Not Certified Yet)*  
 
 ---
